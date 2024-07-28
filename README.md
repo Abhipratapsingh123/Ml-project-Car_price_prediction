@@ -6,5 +6,5 @@ This project is a Car Price Predictor built using machine learning techniques. I
 
 #### Links
 
-- [Streamlit App]([https://email-checker.streamlit.app/](https://predict-your-car-price.streamlit.app/))
+- [Streamlit App](https://predict-your-car-price.streamlit.app/)
 
